@@ -11,7 +11,7 @@
 </head>
 <body style="background-color:powderblue;">
 	<h2 style="color: blue; text-align: center;">
-		<u>PhoneBook Application 
+		<u>PhoneBook Application1
 	</h2>
 	<center>
 		<font color="green">${succesMsg}</font>
